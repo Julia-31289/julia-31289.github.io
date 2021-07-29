@@ -1,0 +1,127 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+    .container {
+        width: 1140px;
+        margin: 0 auto;
+        }
+
+        .menu_{
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .map_ {
+            box-sizing: border-box;
+            } 
+
+        /* .top
+        {
+            display: flex;
+            align-self: center;
+        }   */
+        .contacts-block
+        {
+            display: flex;
+            justify-content: space-around;
+        }
+        .top_info
+        {
+  width: 510px;
+     }
+     
+     .map
+     {
+
+       
+     }
+
+        .card
+        {
+                       display: flex;
+            justify-content: space-around;
+        }    
+.card1
+{
+    width: 359px;
+}
+.card2
+{
+    width: 359px;
+}
+.card3
+{
+    width: 359px;
+}
+
+        .about
+        {
+            width: 425px;
+        }
+        .footer_top
+        {
+            width: 340px;
+                    }
+        .footer_content
+        {
+            width: 495px;
+           
+        }
+
+body {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 16px; 
+    line-height: 26px;
+    color: #1F3F68;
+    }
+
+.forpt {
+        font-size: 64px; 
+        color: #1F3F68;
+        }
+
+.fivept {
+        font-weight: 500;
+        font-size: 44px;
+        text-align: center;
+        }
+
+.sixpt {
+font-size: 36px;
+text-align: center;
+}
+
+.sevenpt {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+.eightpt
+{
+border: 1px solid #356EAD; 
+box-sizing: border-box; 
+border-radius: 10px; 
+opacity: 0.4;
+}
+
+.ninept
+{
+background: #5A98D0; 
+box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2); 
+border-radius: 10px; 
+font-weight: 500; 
+font-size: 16px;
+line-height: 26px; 
+text-align: center; 
+color: #FFFFFF; 
+text-transform: uppercase;
+}
